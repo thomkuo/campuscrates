@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "campus-crates",
+  "private_key_id": "15fdc48678824c45734ee71c9a7eca3ac67fb56c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkpBLr5cwrELXK\n1ECFo1p9CGYXHqix1uuUvORNaJhmV1lgmdLLzdBTqWTiI/L+5q+cTXZzjUXK4iFM\n54D8IqH9w9yzKCGr+8N0/3U7OlBzkBEh08ZgBoWlm6W6vfJWPi/StFxVUvL7uTKW\ntZjYuyF2IW2DwpKuIHu3+Kr7NN4Lf3XC4eY7klVHTkUO07s3EUcT7P4nNPZfPMWB\ntJa5f9BppsVpiL+YtoBb4JbKflPBfN0gQb++jK52j/ehdmQF8sWlzsvsQDh6ZijS\nRqekU97hLbE4Xd5SbFZIubyvgzd94vC3fQvDow57uyY6Z5oHgduXB8NxdJ0CoBsW\nfeWAgNN/AgMBAAECggEAJ8w1bPFNdguNETab2ociF5RwLMMN6xK1Y+jzNlQn/txi\ndtGfoxD6m61nHYPTZrIhzCuhnCBxjwyIbln3liuzFbhTgK3SGp0SmxliPwJ6AXuI\nt+IkbA+GkNqEYPpyJbfiXCM/1SxAljdYymnmpocAHo9YADDMllmaH1496Mb9hXOA\nb6V0lY1rHXqrY5rti3flsszeKKUSLo5il+A2DhzRrDNreHdCQJ9P9/AAeR/eAYr7\nALhvZWzSXoFVX1gt1IiZsoVPl4qMv2lKUfyPF5RZF9yMkEjDards0c+adjhVfrsQ\nZjbVIvWEOUzFegW1v1eULM4LNSW6/xuEhMFJcbbiQQKBgQD8bRQ82PiPDfG5N4YL\nCN5G6CVwdbOCRdz6ieZDrfLKsRcoWqUlX6LWWeo7fDhJ/S/sFM3lon2F4hTTFcZ/\ngUnMuRLiXFX7IqxxyjSvYBg/RkQUkGxGmp/0C4e+hyV32IXYxMXfRhNr8SUqPtqY\nLxDRajf/fkw28OQpn/qsIjPFvwKBgQDn4MkFuFOhSbFD8aR88vpMfV0Xr2QapRqa\nTEp4vUc2SJwwJDnFvUzJXSdNpbhRY/XEXAS7HCfCRg4aVLF+SCBBGs5VjartDz0r\n3cg5xRH36EDpGze9aKD1eLvmcOx7bxZ9dJb8KAt2W8A2eC+fYf0YkuR6gZJ50kIm\nqlKoD3fiQQKBgD9zw/SPrdt3691dIarAbe9xB4g/bgI/QY8Q/vrgTPm6jlGsh3rf\nkXVEYObXEOc4Z8V2bVNeByOScx2kiaMfgseddivEfjCExMhNxfSXuUCejxqEO1N8\nJt0X0OWJ31dC7FJTFFJNsTAfC/KUnipHGnkptC3bN5lP8GquNjry1gTNAoGAd7AL\nkyxF3qbPHScJpIU2tWywNJ2PqkE2rhZbCl+I9ngcRq0sNOk1TWsL8oRr03cpUKW+\nu2YZD6phdS3qQCiynWhcwMRTSfHnvVDJHSif0brMZoZqCxaKnqonMxduuXfpv/AC\nTz3MTNenK3Z1/mrx3VFVJfbjyIXDJ3obGCyD0QECgYEAq/f2RvxeL8dKiezIOjYP\nQuvJ8ZwjL55KpPNxVRuOFpwUCEz7Xv2QDJ4VozgsszinPgm4R3I2PGc8Bh/y7fGk\nKuDVksqrb8UENhZd5axYhIQYIw/3a4z6VMMZ5uYsG1w/DibYh/AJqYKZJkZQdvxW\n1c5EC5vHc/Eetp2vTVTCIUU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cc-backend@campus-crates.iam.gserviceaccount.com",
+  "client_id": "100052932884627574587",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cc-backend%40campus-crates.iam.gserviceaccount.com"
+}
