@@ -45,17 +45,12 @@ export class UserForm extends Component {
         })
     }
 
-    submitButton = (input) => {
+    submitButton = () => {
       const { step } = this.state;
       this.setState({
-          step: step + 1
+          step: step + 1,
       })
-      console.log(this.state);
-      console.log(input);
-      //   axios.post('https://sheet.best/api/sheets/6252e6e9-e920-4290-b356-d3383a61cea2', this.state)
-    // .then(response => {
-    //   console.log(response);
-    // })
+        console.log(this.state);
   }
 
     //Handles field change

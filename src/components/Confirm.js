@@ -29,7 +29,6 @@ export class Confirm extends Component {
   };
 
   render() {
-    const { values, handleChange } = this.props;
     var {
       values: { firstName, lastName, email, college, pickupType, deliveryRange, s2s, smallDesc, mediumDesc, largeDesc, xlargeDesc, large_furn_desc, fees, discounts, tips, notes, movers, totPrice, totItems }
     } = this.props;
@@ -97,6 +96,7 @@ export class Confirm extends Component {
     function blankArray(value) {
       return value !== "";
     }
+    
     return (
       <MuiThemeProvider>
         <>
@@ -168,12 +168,13 @@ export class Confirm extends Component {
             </List>
             <br />
 
-
             <Button
               color="primary"
               variant="contained"
-              onClick={this.submit}
-            >Confirm & Continue</Button>
+              onClick={
+                this.submit
+              }>
+            Confirm & Continue</Button>
 
             <Button
               color="secondary"
